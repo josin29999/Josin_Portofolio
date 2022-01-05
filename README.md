@@ -20,7 +20,9 @@ Example data science Portofolio
 * Engineered feature from the Moving avarage, stochastic, RSI, Volume, those feature is trading strategy we used to use for trading.
 
 ![](https://github.com/josin29999/Josin_Portofolio/blob/main/images/Feature_Importance.png)
+
 Like you see from that picture RSI is the biggest feature to take decision.
 
 ![](https://github.com/josin29999/Josin_Portofolio/blob/main/images/Histogram_Actual_vs_Strategy_returns.png)
+
 Accuracy from the model is very big. strategy and actual returns is very close to each other.
